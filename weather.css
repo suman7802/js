@@ -1,0 +1,21 @@
+.main-container {
+  height: 100%;
+  width: 100%;
+  color: red;
+  display: flex;
+  justify-content: center;
+}
+.container1 {
+  min-width: 50%;
+  min-height: 30rem;
+  border: 1px solid black;
+}
+.button {
+  padding: 5px 8px;
+}
+.wrapper {
+  display: flex;
+  border: 1px solid black;
+  justify-content: space-between;
+  padding: 5px;
+}
